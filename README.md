@@ -3,7 +3,9 @@
 What a great hands-on book by Kevin Solorio, Randall Kanna,
 and David H. Hoover.
 
-## Ethereum Client
+## Setup
+
+### Ethereum Client
 
 I'm experimenting [OpenEthereum].  It's deprecated but trying
 it, because it's written in [Rust]. :)
@@ -61,8 +63,24 @@ INFO [10-24|12:12:27.930] Looking for peers                        peercount=0 t
 
 The geth output above seems not right.  I'll come back later on those.
 
+### Testing
+
+Let's install [Truffle] and [Ganache] for testing.
+
+```
+$ yarn global add truffle
+```
+
+```
+$ yarn global add ganache
+```
+
+Happy Hackin'!
+
 [smart contract development]: https://www.oreilly.com/library/view/hands-on-smart-contract/9781492045250/
 [openethereum]: https://openethereum.github.io/
 [from the source]: https://github.com/openethereum/openethereum#32-build-from-source-code-
 [rust]: https://www.rust-lang.org
 [geth]: https://geth.ethereum.org/
+[truffle]: https://trufflesuite.com/
+[ganache]: https://trufflesuite.com/ganache/
