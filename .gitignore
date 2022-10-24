@@ -1,1 +1,2 @@
-targets/
+build/
+node_modules/

@@ -3,6 +3,10 @@
 What a great hands-on book by Kevin Solorio, Randall Kanna,
 and David H. Hoover.
 
+## Smart Contracts
+
+- [Greeter](ch04/greeter/contracts/greeter.sol) contract
+
 ## Setup
 
 ### Ethereum Client
