@@ -7,6 +7,15 @@ and David H. Hoover.
 
 - [Greeter](ch04/greeter/contracts/greeter.sol) contract
 
+## dApp
+
+Trackled the dApp with [typescript and react based single page dApp]:
+
+- [Greeter dApp](ch09/greeter/client/src/App.tsx)
+
+I need to learn bunch of things, typescript, react, truffle, ganache,
+..., but it's really fun to make dApp up and running. :)
+
 ## Setup
 
 ### Ethereum Client
@@ -88,3 +97,4 @@ Happy Hackin'!
 [geth]: https://geth.ethereum.org/
 [truffle]: https://trufflesuite.com/
 [ganache]: https://trufflesuite.com/ganache/
+[typescript and react based single page dapp]: https://betterprogramming.pub/truffle-react-monorepo-with-typescript-4421039d4ba8
